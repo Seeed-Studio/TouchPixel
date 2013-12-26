@@ -25,3 +25,7 @@ Comming soon
 
 #### Software
 Comming soon
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Seeed-Studio/touchpixel/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+

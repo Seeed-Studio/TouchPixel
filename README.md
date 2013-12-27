@@ -15,7 +15,7 @@ To colorize a colorful pixel with a simple touch using nfc technolgy
 ### using Arduino
 + Hardware - Seeeduino V3 + [NFC Shield V2][NFC Shield V2] + Grove - Chainable RGB LED or Xadow Main board + [Xadow NFC][Xadow NFC] + Xadow Breakout + Grove - Chainable RGB LED
   
-  ![Xadow Chain](xadow_chain.jpg)
+  ![Xadow Chain](img/xadow_chain.jpg)
 
 + Software
   + [for Seeeduino V3](arduino/touchpixel.ino)

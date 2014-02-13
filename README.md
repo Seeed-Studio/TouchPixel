@@ -28,3 +28,8 @@ To colorize a colorful pixel with a simple touch using nfc technolgy
 [Xadow NFC]: http://goo.gl/rRQ56V
 [NFC Shield V2]: http://goo.gl/XPf6XY
 [Arch]: http://goo.gl/Zh2Azz
+
+
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/TouchPixel)](https://github.com/igrigorik/ga-beacon)
